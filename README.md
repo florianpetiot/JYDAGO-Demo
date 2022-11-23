@@ -11,6 +11,6 @@ Vous pouvez vous "connecter" avec les identifiants suivants:
 
 | | Identifiant | Mot de passe |
 | --- | --- | --- |
-<a href="https://florianpetiot.github.io/JYDAGO-Demo/" target="_blank">Élève</a> | 101 | 101 |
-<a href="https://florianpetiot.github.io/JYDAGO-Demo/session_prof/" target="_blank">Administrateur</a> | 903 | 903 |
-<a href="https://florianpetiot.github.io/JYDAGO-Demo/session_prof/" target="_blank">Administrateur</a> | 999 | 999 |
+[Élève](https://florianpetiot.github.io/JYDAGO-Demo/) | 101 | 101 |
+[Professeur](https://florianpetiot.github.io/JYDAGO-Demo/session_prof/) | 903 | 903 |
+[Administrateur](https://florianpetiot.github.io/JYDAGO-Demo/session_prof/) | 999 | 999 |
