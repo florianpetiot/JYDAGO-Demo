@@ -87,6 +87,7 @@ function recupperer_questions() {
             document.getElementById("q1").value = "Le hasard est il vraiment aléatoire en informatique ?";
             auto_grow(document.getElementById("q1"));
             q1s1.value = "NSI";
+            q1s2.value = "MATHS";
             // desactiver les options de la premiere question sauf si la valeur est ""
             if (q1s1.value !== "") {
                 bloquerSpe1("q1s1", "q1s2");

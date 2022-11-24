@@ -1,8 +1,8 @@
 # JYDAGO-Demo
-Ce dépot est en lien directe avec le dépot pricipal [JYDAGO](https://github.com/florianpetiot/JYDAGO).
+Ce dépôt est en lien direct avec le dépôt principal [JYDAGO](https://github.com/florianpetiot/JYDAGO).
 Il s'agit d'une démonstration scénarisée n'ayant pas besoin de base de données.
 
-Pour plus d'information veillez vous diriger vers [la page du dépot principal](https://github.com/florianpetiot/JYDAGO).
+Pour plus d'information veillez vous diriger vers [la page du dépôt principal](https://github.com/florianpetiot/JYDAGO).
 
 
 # Utilisation
